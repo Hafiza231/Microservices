@@ -1,0 +1,14 @@
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\bin\Debug\netcoreapp2.2\UserServices.deps.json
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\bin\Debug\netcoreapp2.2\UserServices.runtimeconfig.json
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\bin\Debug\netcoreapp2.2\UserServices.runtimeconfig.dev.json
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\bin\Debug\netcoreapp2.2\UserServices.dll
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\bin\Debug\netcoreapp2.2\UserServices.pdb
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\obj\Debug\netcoreapp2.2\UserServices.csproj.CoreCompileInputs.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\obj\Debug\netcoreapp2.2\UserServices.RazorAssemblyInfo.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\obj\Debug\netcoreapp2.2\UserServices.RazorAssemblyInfo.cs
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\obj\Debug\netcoreapp2.2\UserServices.AssemblyInfoInputs.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\obj\Debug\netcoreapp2.2\UserServices.AssemblyInfo.cs
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\obj\Debug\netcoreapp2.2\UserServices.RazorTargetAssemblyInfo.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\obj\Debug\netcoreapp2.2\UserServices.dll
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\obj\Debug\netcoreapp2.2\UserServices.pdb
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\UserServices\obj\Debug\netcoreapp2.2\UserServices.csprojAssemblyReference.cache

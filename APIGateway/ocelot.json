@@ -1,0 +1,71 @@
+{
+  "GlobalConfiguration": {
+   
+  },
+  "ReRoutes": [
+    {
+      //Routing for User services
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 58250
+        }
+      ],
+      "DownstreamScheme": "http",
+      "DownstreamPathTemplate": "/api/{anything}",
+      "UpstreamPathTemplate": "/user/{anything}",
+      "UpstreamHttpMethod": [ "GET", "POST" ]
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 58250
+        }
+      ],
+      "DownstreamScheme": "http",
+      "DownstreamPathTemplate": "/api/{anything}/{id}",
+      "UpstreamPathTemplate": "/user/{anything}/{id}",
+     
+    }, //End User Service
+
+    //Product Service
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 63240
+        }
+      ],
+      "DownstreamScheme": "http",
+      "DownstreamPathTemplate": "/api/{anything}",
+      "UpstreamPathTemplate": "/product/{anything}",
+    },
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 63240
+        }
+      ],
+      "DownstreamScheme": "http",
+      "DownstreamPathTemplate": "/api/{anything}/{id}",
+      "UpstreamPathTemplate": "/product/{anything}/{id}"
+
+    },
+    
+    //JWT token Services
+    {
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 44330
+        }
+      ],
+      "DownstreamScheme": "http",
+      "DownstreamPathTemplate": "/api/{anything}",
+      "UpstreamPathTemplate": "/Login/{anything}"
+
+    }
+  ]
+}

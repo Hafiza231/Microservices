@@ -1,0 +1,14 @@
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\bin\Debug\netcoreapp2.2\JWTAuthentication.deps.json
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\bin\Debug\netcoreapp2.2\JWTAuthentication.runtimeconfig.json
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\bin\Debug\netcoreapp2.2\JWTAuthentication.runtimeconfig.dev.json
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\bin\Debug\netcoreapp2.2\JWTAuthentication.dll
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.csprojAssemblyReference.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.csproj.CoreCompileInputs.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.RazorAssemblyInfo.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.RazorAssemblyInfo.cs
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.AssemblyInfoInputs.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.AssemblyInfo.cs
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.RazorTargetAssemblyInfo.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\bin\Debug\netcoreapp2.2\JWTAuthentication.pdb
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.dll
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\JWTAuthentication\obj\Debug\netcoreapp2.2\JWTAuthentication.pdb

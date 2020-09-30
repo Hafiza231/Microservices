@@ -1,0 +1,15 @@
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\bin\Debug\netcoreapp2.2\APIGateway.deps.json
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\bin\Debug\netcoreapp2.2\APIGateway.runtimeconfig.json
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\bin\Debug\netcoreapp2.2\APIGateway.runtimeconfig.dev.json
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\bin\Debug\netcoreapp2.2\APIGateway.dll
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.csprojAssemblyReference.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.csproj.CoreCompileInputs.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.RazorAssemblyInfo.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.RazorAssemblyInfo.cs
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.AssemblyInfoInputs.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.AssemblyInfo.cs
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.RazorTargetAssemblyInfo.cache
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\bin\Debug\netcoreapp2.2\APIGateway.pdb
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.dll
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\obj\Debug\netcoreapp2.2\APIGateway.pdb
+D:\Microservices\6_8_2020\SimpleMicroserviceDemo\APIGateway\bin\Debug\netcoreapp2.2\ocelot.json
